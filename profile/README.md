@@ -1,5 +1,5 @@
-## Rival Royale
+## HVC
 
-- Rival is a FiveM server based around the battle royale style gamemode.
+- HVC is a FiveM server that is mainly semi-serious roleplay.
 
-- [Discord](https://discord.gg/rivalroyale)
+- [Discord](https://discord.gg/hvc)
